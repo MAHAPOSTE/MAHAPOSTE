@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mahalaxmi</h1>
 <h3 align="center">Aspiring Full Stack Developer 🚀</h3>
 
-## 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 
 🌱 I’m currently learning **Java Full Stack Web Development**  
 💻 Passionate about learning new technologies  
 🎯 Goal: To become a Full Stack Developer  
 📫 How to reach me: mahalaxmiposte03@gmail.com
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 💻 Java | JavaScript  
 🌐 HTML | CSS  
 🔧 Git & GitHub  
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/mahalaxmi-poste-28117527a)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png)](https://leetcode.com/MahalaxmiPoste)
