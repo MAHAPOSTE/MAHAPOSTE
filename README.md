@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahalaxmi</h1>
-<h3 align="center">Aspiring Full Stack Developer 🚀</h3>
+<h3 align="center">Aspiring Full Stack Developer </h3>
 
 ### 👨🏻‍💻 About Me
 
