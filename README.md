@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahalaxmi</h1>
 <h3 align="center">Aspiring Full Stack Developer 🚀</h3>
 
-
 ## 👨🏻‍💻 About Me
 
 🌱 I’m currently learning **Java Full Stack Web Development**  
@@ -9,13 +8,11 @@
 🎯 Goal: To become a Full Stack Developer  
 📫 How to reach me: mahalaxmiposte03@gmail.com
 
-
 ## 🛠️ Tech Stack
 
 💻 Java | JavaScript  
 🌐 HTML | CSS  
 🔧 Git & GitHub  
-
 
 ## 📫 Connect With Me
 
