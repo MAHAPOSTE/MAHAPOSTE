@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Java Full Stack Web Development**  
 💻 Passionate about learning new technologies  
-🎯 Goal: To become a Full Stack Developer  
+🎯 Goal: To become a Java Full Stack Developer  
 📫 How to reach me: mahalaxmiposte03@gmail.com
 
 ### 🛠️ Tech Stack
